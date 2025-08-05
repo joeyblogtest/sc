@@ -1,3 +1,12 @@
 {
-  "commands": []
+  "commands": [
+    {
+      "id": 1754352042340,
+      "name": "a",
+      "command": "bash <(curl -l -s https://raw.githubusercontent.com/byJoey/Actions-bbr-v3/refs/heads/main/install.sh)",
+      "description": "",
+      "created_at": "2025-08-05T00:00:42+00:00",
+      "updated_at": "2025-08-05T00:00:42+00:00"
+    }
+  ]
 }
